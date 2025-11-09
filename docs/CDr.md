@@ -1,3 +1,16 @@
+# Don't Repeat Yourself
+
+## Code/Design review Component
+Waarbij je feedback geeft en krijgt op het component dat je aan het ontwerpen en maken bent. 
+
+### Aanpak
+
+
+
+
+
+
+<!--
 # Vrijdag code/design review
 
 ## ’s Ochtends (8 docenten)
@@ -27,4 +40,5 @@ Geef feedback op hoe ze dit harder/better/faster/stronger kunnen doen:
 - Stefan prototype in Figma: experimenteer nou met code in de browser..
 - Joelle, Zenit en Ralph: het is nu een .gif, maak dit met SVG en CSS animatie
 - Rosa: het zijn nu 4 losse titels, probeer hetzelfde eens met drop-shadow
+-->
 
