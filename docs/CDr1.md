@@ -1,6 +1,6 @@
 # Don't Repeat Yourself
 
-## Code/Design review Component
+## Code/Design review - Component
 Waarbij je feedback geeft en krijgt op het component dat je aan het ontwerpen en maken bent. 
 
 ### Aanpak
