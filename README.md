@@ -1,5 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+# Don't Repeat Yourself
+
+Ontwikkel een website voor een opdrachtgever op basis van een component library.
+
 De instructie vind je in: [docs/INSTRUCTIONS.md](./docs/INSTRUCTIONS.md)
 
 ## Licentie
