@@ -16,11 +16,9 @@ Tijdens deze sprint worden een aantal workshops aangeboden waar verschillende op
 - [The New Responsive](the-new-responsive.md)
 - [Code/Design Review - Component](CDr1.md)
 <!-- - [Stagemarkt](stagemarkt.md) -->
- 
 - [Advanced Component Concepts](advanced-component-concepts.md)
 - [Typografie in Webdesign](typografie-in-webdesign.md)
 - [Code/Design Review - Component Library](CDr2.md)
-
 - [Sveltekit anti-patterns](sveltekit-anti-patterns.md)
 - [Wrap-up](wrap-up.md)
 - [Retrospect / Refinement](retrospect.md)
