@@ -1,4 +1,4 @@
-# Don't Repeat Yourself - Component Library
+# Don't Repeat Yourself
 
 ## Sprint Planning
 
