@@ -10,6 +10,8 @@ Het ontwikkelen van een component voor een component library zorgt voor herbruik
 
 ## Aanpak
 
+N.B.: Zorg er voor dat stap 1 t/m 5 voor woensdag zijn afgerond. Tijdens de les over *the new responsive* wordt aandacht gegeven aan container queries, het is belangrijk dat je de ontwerpfase dan afgerond hebt!
+
 1. Beschrijf tekstueel de functie en eigenschappen die het component heeft. Het is handig als je met iemand uit je team overlegt om te bepalen of het idee wat je hebt bij het component volledig is. Meestal plaats je deze tekst in de issue of sub-issue.
 2. Maak (op papier!) een morphologische kaart om variatie in de uitwerking van het component te onderzoeken. Elke functie kan immers op veel verschillende manieren uitgewerkt worden en een goed onderbouwde keuze heeft minstens een aantal alternatieven onderzocht.
 3. Onderweg zoek je inspiratie op het web, kijk naar hoe anderen bepaalde dingen hebben aangepakt. Bewaar de door jou gevonden inspiratie door screenshots in Figma bij elkaar te plaatsen. [divergeren]
