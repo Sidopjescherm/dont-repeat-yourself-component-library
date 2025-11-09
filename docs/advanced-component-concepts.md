@@ -1,4 +1,4 @@
-# Don't Repeat Yourself
+# Don't Repeat Yourself - Component Library
 
 ## Advanced Component Concepts
 
