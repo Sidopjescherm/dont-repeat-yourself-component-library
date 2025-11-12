@@ -44,7 +44,7 @@ Om hier layouts voor te maken zijn _Viewport Segments API_ bedacht. Dit is nog i
 
 ### 👉 Opdracht Foldable screens
 
-Bekijk jullie website in de devtools van Chrome op de _Galaxy Z Fold_ en _Asus Zenbook Fold_. Klopt de layot nog? Wat kan je hier nog meer mee maken?
+Bekijk jullie website in de devtools van Chrome op de _Galaxy Z Fold_ en _Asus Zenbook Fold_. Klopt de layout nog? Wat zou je nog meer kunnen bedenken en maken voor _foldables_?
 
 Bekijk met je team de voorbeeld video voor _foldable screens_ op https://web.dev/articles/new-responsive#responsive_to_the_form_factor
 
@@ -154,6 +154,7 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
 
 
