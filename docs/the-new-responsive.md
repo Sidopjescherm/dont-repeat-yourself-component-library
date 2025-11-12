@@ -27,7 +27,7 @@ _Responsive design betekent dat je rekening houdt met de viewpoort, met afwijken
 
 
 ## Responsive to the Form Factor
-_Responsive to the Form Factor_ betekent dat een website zich ook aanpast aan de vorm van een apparaat. Door de uitvinding van flexibele schermen kunnen handhelds gevouwen worden. Bijvoorbeeld Samsung is hiermee bezig. Sommige studenten hebben een smarthphone met gevouwen scherm. (Stelle?).
+_Responsive to the Form Factor_ betekent dat een website zich ook aanpast aan de vorm van een apparaat. Door de uitvinding van flexibele schermen kunnen handhelds gevouwen worden. Bijvoorbeeld Samsung is hiermee bezig. Sommige studenten hebben een smarthphone met gevouwen scherm. (Stella?).
 
 <!--
 > Flexponsive Design
@@ -154,5 +154,6 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
 
