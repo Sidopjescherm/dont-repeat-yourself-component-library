@@ -112,7 +112,7 @@ Als je voor een component container queries gebruikt kan je de layout laten aanp
 — MDN - CSS Container Queries https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
 
 ![](the-new-responsive-container-query-button.jpg)<br>
-_Een button component 'add to cart' wordt op verschillen plekken gebruikt in een website. Het label past zich aan aan de hoeveelheid ruimte - [Responsive Icon Demo Mariam Suzanne](https://codepen.io/miriamsuzanne/pen/RwQmmrw)_
+_Een button component 'add to cart' wordt op verschillende plekken gebruikt in een website. Het label past zich aan aan de hoeveelheid ruimte - [Responsive Icon Demo Mariam Suzanne](https://codepen.io/miriamsuzanne/pen/RwQmmrw)_
 
 
 ### Opdracht 👉 Component in detail ontwerpen en bouwen met container queries
@@ -121,7 +121,7 @@ Bekijk met je team de voorbeeld video met de planten in het onderdeel 'Responsiv
 
 Werk je eigen component in detail uit in Figma. Hou er rekening mee dat het component op verschillende plekken in de website gebruikt kan worden. Neem als voorbeeld de button uitwerking van de [Responsive Icon Demo](https://codepen.io/miriamsuzanne/pen/RwQmmrw)_
 
-Maak een breakdown met breakpoints, onderzoekn en noteer hoe je het component met container queries kan bouwen. 
+Maak een breakdown met breakpoints, onderzoek en noteer hoe je het component met container queries kan bouwen. 
 
 Maak een bijpassend issue, verzamel je schetsen en onderzoek. 
 
@@ -146,7 +146,7 @@ Maak een bijpassend issue, verzamel je schetsen en onderzoek.
 ## 💪 Extra uitdagingen
 
 
-Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je werk bij in het issue met foldable design ideeen.
+Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je werk bij in het issue met foldable design ideeën.
 
 
 
@@ -154,6 +154,7 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
 
 
