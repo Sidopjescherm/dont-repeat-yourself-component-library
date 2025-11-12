@@ -65,7 +65,7 @@ Maak een issue aan met jullie design ideeen, voeg inspiratie toe en bronnen hoe 
 
 
 ## Responsive to the User
-Media query ‘luistert’ naar de instellingen van de gebruiker zoals light/dark mode en toegankelijkheid settings
+Een Media query ‘luistert’ naar de instellingen van de gebruiker zoals light/dark mode en toegankelijkheid settings.
 
 ### User preference media features (Level 5)
 
@@ -154,6 +154,7 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
 
 
