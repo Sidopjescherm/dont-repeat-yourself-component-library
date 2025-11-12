@@ -127,8 +127,6 @@ Maak een breakdown met breakpoints, onderzoek en noteer hoe je het component met
 #### 🕜 Hoe hiermee verder?
 Maak een bijpassend issue, verzamel je schetsen en onderzoek. Maak je component met _component queries_ voor 'the new responsive'!
 
-Container queries worden god uitgelegd bij MDN of andere bronnen. 
-
 
 <!--
 - Component responsive uitwerken op basis van het artikel (voorbeeld Ina menu dinges) 
@@ -158,6 +156,7 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
 
 
