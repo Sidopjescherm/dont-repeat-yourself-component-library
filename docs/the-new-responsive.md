@@ -12,7 +12,7 @@ Je hebt na de sprint planning variaties geschetst van je component en een hifi o
 Lees het artikel The New Responsive met je tafel.  Bespreek een strategie hoe je de drie onderdelen (responsive to the user, responsive to the container, responsive to the form factor ) kan toepassen op jullie Component Library. 
 Schets voor je eigen component een breakdown voor het toepassen van User preference media features en Container queries. Onderzoek hoe het werkt en ….  -->
 
-Responsive web design anno 2025 een website die zich aanpast aan de vorm van het apparaat, met componenten die zich aanpassen naar de ruimte die beschikbaar is, én waarbij je rekening houdt met gebruikersinstellingen,. 
+Responsive web design anno 2025 is een website die zich aanpast aan de vorm van het apparaat, met componenten die zich aanpassen aan de ruimte die beschikbaar is, én waarbij je rekening houdt met gebruikersinstellingen,. 
 
 ## Responsive Web Design
 
@@ -154,4 +154,5 @@ Onderzoek de _Viewport Segments CSS media features_ en bouw een demo. Hou je wer
 ## ✒️ Leervragen
 
 Noteer per onderdeel van het artikel [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het (later) kan onderzoeken.
+
 
