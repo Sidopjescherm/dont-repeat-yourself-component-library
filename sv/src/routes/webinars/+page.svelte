@@ -39,23 +39,23 @@
 
         <label class="label-search" for="webinarSearch">Type here a webinar you are looking for</label>
 
-        <div class="container-filters">
-            <div class="searchbar">
-                <input
-                    type="search"
-                    id="webinarSearch"
-                    placeholder="Search..."
-                />
-                <button class="img-search">Search</button>
-            </div>
+        <select name="sort" id="new-old">
+            <option value="-date">New to Old</option>
+            <option value="date">Old to New</option>
+            <option value="title">A-Z</option>
+            <option value="-title">Z-A</option>
+        </select>
 
-            <select name="recent" id="new-old">
-                <option value="-date">New to Old</option>
-                <option value="date">Old to New</option>
-            </select>
+        <select name="filter" id="filter">
+            <option value="">All</option>
+            {#each categories as category}
+                <option value={category.name}>{category.name}</option>
+            {/each}
+        </select>
 
-            <button class="filteren" type="submit">Filter webinars</button>
-        </div>
+        <button class="filteren" type="submit">Filter webinars</button>
+        <button class="reset-filter" type="reset">Reset filter</button>
+
     </fieldset>
 </form>
 

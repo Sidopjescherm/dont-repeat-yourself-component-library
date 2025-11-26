@@ -56,6 +56,12 @@
         await dHundredRoll()
         allDice = { d20, d4, d6, d8, d10, d12, d100 }
     }
+
+    const dice = [d4 + d6 ]
+    
+    async function sumDice() { 
+        console.log(dice)
+    }
 </script>
 
 <button onclick={dFourRoll}>Roll a d4</button>
